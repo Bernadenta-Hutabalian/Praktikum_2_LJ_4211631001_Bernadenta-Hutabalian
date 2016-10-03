@@ -1,0 +1,2 @@
+# Praktikum_2_LJ_4211631001_Bernadenta-Hutabalian
+Tugas_LJ_Simulation_Transmit Data_using_HTerm_&amp;_Com0Com
